@@ -1,0 +1,59 @@
+﻿economic_region,county,range
+Northern California,Del Norte,seaside
+Northern California,Siskiyou,inland
+Northern California,Modoc,inland
+Northern California,Humboldt,seaside
+Northern California,Trinity,inland
+Northern California,Lassen,inland
+Northern California,Plumas,inland
+Northern California,Mendocino,seaside
+Northern California,Lake,inland
+Northern California,Sierra,inland
+Northern California,Nevada,inland
+Northern Sacramento Valley,Shasta,inland
+Northern Sacramento Valley,Tehama,inland
+Northern Sacramento Valley,Glenn,inland
+Northern Sacramento Valley,Butte,inland
+Northern Sacramento Valley,Colusa,inland
+Greater Sacramento,Sutter,inland
+Greater Sacramento,Yuba,inland
+Greater Sacramento,Placer,inland
+Greater Sacramento,Yolo,inland
+Greater Sacramento,Sacramento,inland
+Greater Sacramento,El Dorado,inland
+Bay Area,Sonoma,seaside
+Bay Area,Napa,seaside
+Bay Area,Marin,seaside
+Bay Area,Solano,seaside
+Bay Area,Contra Costa,seaside
+Bay Area,San Francisco,seaside
+Bay Area,San Mateo,seaside
+Bay Area,Santa Cruz,seaside
+Bay Area,Alameda,seaside
+Bay Area,Santa Clara,seaside
+Bay Area,San Benito,seaside
+Central Coast,Monterey,seaside
+Central Coast,San Luis Obispo,seaside
+Central Coast,Santa Barbara,seaside
+San Joaquin Valley,San Joaquin,inland
+San Joaquin Valley,Stanislaus,inland
+San Joaquin Valley,Merced,inland
+San Joaquin Valley,Madera,inland
+San Joaquin Valley,Fresno,inland
+San Joaquin Valley,Kings,inland
+San Joaquin Valley,Tulare,inland
+San Joaquin Valley,Kern,inland
+Central Sierra,Amador,inland
+Central Sierra,Calaveras,inland
+Central Sierra,Alpine,inland
+Central Sierra,Tuolumne,inland
+Central Sierra,Mariposa,inland
+Central Sierra,Mono,inland
+Central Sierra,Inyo,inland
+Southern California,Ventura,seaside
+Southern California,Los Angeles,seaside
+Southern California,Orange,seaside
+Southern California,San Bernadino,inland
+Southern California,Riverside,inland
+Southern Border,San Diego,seaside
+Southern Border,Imperial,inland
